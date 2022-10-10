@@ -1,0 +1,37 @@
+h1 {
+  color: lavender;
+  font-size: 100%
+}
+h2 {
+  color: purple;
+  font size: 100%
+}
+h3 {
+  color: blue;
+  font size: 100%
+}
+
+p  { font-family: "Times New Roman";
+     font-style: oblique;
+     color: blue;
+     text-indent: 20px;
+     margin-left: 10px;
+}
+#callout {
+  background-color:pink;
+  padding: 20px;
+  margin: 10px;
+  boder: solid 1px black;
+  border-radius: 20px;
+}
+#content {
+        background-color: green;
+        width: 200px;
+        min-height: 100px;
+        padding: 10px;
+        border: solid 1px black;
+        font-size: 15px;
+}
+#selfimag3 {
+  width: 200px;
+}
