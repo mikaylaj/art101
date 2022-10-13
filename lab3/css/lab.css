@@ -21,7 +21,7 @@ p  { font-family: "Times New Roman";
   background-color:pink;
   padding: 20px;
   margin: 10px;
-  boder: solid 1px black;
+  border: solid 1px black;
   border-radius: 20px;
 }
 #content {
@@ -33,5 +33,5 @@ p  { font-family: "Times New Roman";
         font-size: 15px;
 }
 #selfimag3 {
-  width: 200px;
+  width: 300px;
 }
