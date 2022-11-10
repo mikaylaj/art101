@@ -1,9 +1,9 @@
 h1 {
-  color: lavender;
+  color: Orange;
   font-size: 100%
 }
 h2 {
-  color: purple;
+  color: Magenta;
   font size: 100%
 }
 h3 {
@@ -31,7 +31,9 @@ p  { font-family: "Times New Roman";
         padding: 10px;
         border: solid 1px black;
         font-size: 15px;
-}
-#selfimag3 {
-  width: 300px;
+#body{
+  background: lightyellow;
+  border-width:thin;
+  border-color: black;
+  border width: inherit;
 }
