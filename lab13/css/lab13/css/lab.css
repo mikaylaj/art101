@@ -1,0 +1,43 @@
+h1{
+  color: pink;
+  font-size: 70px;
+  font-family: Georgia;
+}
+body{
+  color: green;
+  font-size: 150px
+  font-style:oblique;
+  font-family: monospace;
+  }
+  h2{
+    color: purple;
+    font-size: 10px
+    font-style:italic;
+  }
+  h3{
+    color: lightgreen;
+    font-style: italic;
+    font-size: 10px;
+  }
+  h4{
+    color: teal;
+    font-style: oblique;
+    font-size: 10px;
+  }
+  h5{
+    color: green;
+    font-size: 10px
+  }
+  p{
+    color:blue;
+    font-size: 10px;
+    font-style: normal;
+  }
+#callout{
+  background-color: lavender;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px pink;
+  border-radius: 20px;
+
+}
