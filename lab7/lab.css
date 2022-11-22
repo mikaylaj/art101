@@ -23,6 +23,12 @@ h5{
   font-style: oblique;
   font-family: cursive;
 }
+h6{
+  color: Green;
+  font-style: italic;
+  font-size: 40px;
+  
+}
 body{
   background-color: lavender;
   border: blue;

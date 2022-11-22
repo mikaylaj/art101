@@ -1,0 +1,54 @@
+Title{
+  color: Red;
+  color: darkred;
+  font-style: italic;
+  font-family: inherit;
+
+}
+body{
+  background-color:lightblue;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px;
+}
+p{
+  color: lavender;
+  font-weight: bolder;
+  font-style: normal;
+  font-family: inherit;
+  font-size: 30px;
+}
+h1{
+  color:darkred;
+  font-style: italic;
+  font-variant: small-caps;
+  flex: initial;
+  font-family: inherit;
+}
+h2{
+  color: blue;
+  font-kerning: auto;
+  font-weight: bold;
+  font-style: italic;
+  font-family: inherit;
+}
+h3{
+  color: green;
+  font-kerning: normal;
+  font-stretch: condensed;
+  font-style: italic;
+  font-family: inherit;
+  font-variant: small-caps;
+}
+p{
+  font: "georgia"
+  font-style: italic;
+  font-family: fantasy;
+  font-family: monospace;
+}
+
+#output{
+  background-color: lightgreen;
+
+}
